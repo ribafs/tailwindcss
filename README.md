@@ -1,4 +1,4 @@
-# Introduç~ao ao TailwindCSS
+# Introdução ao TailwindCSS
 
 Um repositório com algumas informações básicas sobre o TailwindCSS e de cmo utilizá-lo.
 
