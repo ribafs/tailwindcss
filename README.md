@@ -16,4 +16,20 @@ A questão é que alguns softwares e algumas empresas estão dando preferência 
 
 A forma recomendade de instalar o Tailwind é usando o npm e criando o script de configuração. Veja os passos no arquivo devel.md na pasta instalacao.
 
+## Observação
+
+Me parece que para aprender sobre o Tailwind, não há necessidade de um curso aprofundado, mas sim de recorrer ao excelente conteúdo da página de documentação
+
+https://tailwindcss.com/docs/
+
+A extensão do VSCode para autocompletar também ajuda.
+
+Lembre também de recorrer ao Playground
+
+https://play.tailwindcss.com/
+
+Ele tem o autocomplete ativado e pode conferir um pequeno tutorial usando ele aqui:
+
+[TutorialVisual.pdf](TutorialVisual.pdf)
+
 
