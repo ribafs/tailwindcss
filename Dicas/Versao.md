@@ -1,0 +1,1 @@
+npm view tailwindcss version
