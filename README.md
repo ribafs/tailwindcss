@@ -2,6 +2,8 @@
 
 Um repositório com algumas informações básicas sobre o TailwindCSS e de cmo utilizá-lo.
 
+Desde a versão 8 o laravel usa o Tailwind como seu principal framework CSS.
+
 Apenas uma introdução ao Tailwind, mas pode ser útil.
 
 Quem está acostumado com o Bootstrap, como eu, pode estranhar o Tailwind. 
